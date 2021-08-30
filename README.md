@@ -4,11 +4,11 @@ a collection of web shells that I have
 
 
 
-| Name.       | Description                                                      |
-| ----------- | -----------------------------------------------------------------|
-| ec.php      | Simpe command shell ( usage : ec.php?0=ls )                      |
-| drk_.php    | recoded Mini Shell with adding some features.                    |
-| 0.php       | MARIJUANA Shell that i encoded For Bypassing some WAF            |
+| Name.       | Description                                                                     |
+| ----------- | --------------------------------------------------------------------------------|
+| ec.php      | Simpe command shell ( usage : ec.php?0=ls )                                     |
+| drk_.php    | recoded Mini Shell with adding some features.                                   |
+| 0.php       | MARIJUANA Shell that i encoded For Bypassing some WAF when uploading            |
 
 ## Features In drk_.php 
 
